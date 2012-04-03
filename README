@@ -1,0 +1,6 @@
+Tested on Android 2.3.x
+
+$ git clone git://github.com/maluta/CervejaEmConta.gitv
+$ cd CervejaEmConta
+$ android update project -p . 
+$ ant release
