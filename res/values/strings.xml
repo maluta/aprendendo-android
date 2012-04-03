@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CervejaEmContaActivity!</string>
+    <string name="app_name">CervejaEmConta</string>
+    <string name="cervejaA">Cerveja A</string>
+    <string name="cervejaB">Cerveja B</string>
+    <string name="volume1">355ml</string>
+    <string name="volume2">470ml</string>
+    <string name="volume3">250ml</string>
+    <string name="price">Preço (R$)</string>
+    <string name="calcular">Calcular!</string>
+    <string name="value"></string>
+
+</resources>
