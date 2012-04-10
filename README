@@ -1,7 +1,7 @@
 Tested on Android 2.3.x
 Screenshot http://www.flickr.com/photos/maluta/6887393260/
 
-$ git clone git://github.com/maluta/CervejaEmConta.gitv
+$ git clone git://github.com/maluta/CervejaEmConta.git
 $ cd CervejaEmConta
 $ android update project -p . 
 $ ant release
